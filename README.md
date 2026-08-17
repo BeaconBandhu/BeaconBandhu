@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/header-pixel.png" width="180" height="180" style="border-radius:50%;" alt="Aranya Bandhu" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=E5453D&center=true&vCenter=true&width=600&lines=Aranya+Bandhu;AI+Harness+%26+Guardrail+Engineer;Building+Samridh+%2F+BashIn+%2F+NeuroSystem" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aranyabandhu/)
